@@ -1,2 +1,0 @@
-# SongSeeker
-Music recommendation app
